@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.max.seminar_3.accuweather.GetWeatherTenDayTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.403 s - in org.max.seminar_3.accuweather.GetWeatherTenDayTest

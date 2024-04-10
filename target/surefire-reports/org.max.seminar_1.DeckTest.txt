@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.max.seminar_1.DeckTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in org.max.seminar_1.DeckTest

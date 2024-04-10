@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed3b0d70-9961-43a1-b317-903dfb81f240" name="Changes" comment="add seminar_5, seminar_5_HW" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="seminar_5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mayya2594&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c8fc41c0-2832-41b0-8353-011c7cb0e86e" />
+        <option name="url" value="https://github.com/Mayya2594/AutoTestSeminars.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2eEOCvAH8ygYwuF6S2fWOWka53m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.PlayGame.executor": "Run",
+    "Application.RunWireMock.executor": "Run",
+    "Application.org.max.seminar_1_HW.PlayGame.executor": "Run",
+    "JUnit.BoxContainerTest.executor": "Run",
+    "JUnit.BoxContainerTest.testAddToBox.executor": "Run",
+    "JUnit.BoxContainerTest.testBoxContainerAddElement.executor": "Run",
+    "JUnit.BoxContainerTest.testBoxContainerCountSum.executor": "Run",
+    "JUnit.BoxContainerTest.testRemoveToBox.executor": "Run",
+    "JUnit.ClassifyCuisineTest.executor": "Run",
+    "JUnit.ClassifyCuisineTest.post_shouldReturn200.executor": "Run",
+    "JUnit.ClientTest.executor": "Run",
+    "JUnit.ClientTest.getClientById_whenValid_shouldReturn.executor": "Run",
+    "JUnit.ClientTest.getClients_whenValid_shouldReturn.executor": "Run",
+    "JUnit.ConvertAmountsTestSpoonacular.getConvertAmounts_whenValid_shouldReturn.executor": "Run",
+    "JUnit.CourierTest.addCourier_whenValid_shouldSave.executor": "Run",
+    "JUnit.CourierTest.deleteProduct_whenValid_shouldDelete.executor": "Run",
+    "JUnit.CourierTest.executor": "Run",
+    "JUnit.CourierTest.getCouriers_whenValid_shouldReturn.executor": "Run",
+    "JUnit.CourierTest.getProductsById_whenValid_shouldReturn.executor": "Run",
+    "JUnit.CreditTest.addCredit_whenValid_shouldSave.executor": "Run",
+    "JUnit.CreditTest.deleteCredit_whenValid_shouldDelete.executor": "Run",
+    "JUnit.CreditTest.getCredits_whenValid_shouldReturn.executor": "Run",
+    "JUnit.CurrentTest.addCurrent_whenNotValid_shouldThrow.executor": "Run",
+    "JUnit.CustomerTest.addCustomer_whenNotValid_shouldThrow.executor": "Run",
+    "JUnit.CustomerTest.addCustomer_whenValid_shouldSave.executor": "Run",
+    "JUnit.CustomerTest.deleteCustomer_whenValid_shouldDelete.executor": "Run",
+    "JUnit.CustomerTest.executor": "Run",
+    "JUnit.CustomerTest.getCustomerById_whenValid_shouldReturn.executor": "Run",
+    "JUnit.CustomerTest.getCustomers_whenValid_shouldReturn.executor": "Run",
+    "JUnit.DeckServiceTest.testDeckServiceGetDeck.executor": "Run",
+    "JUnit.DeckTest.testDeckException.executor": "Run",
+    "JUnit.DeliveryTest.addDelivery_whenNotValid_shouldSave.executor": "Run",
+    "JUnit.DeliveryTest.addDelivery_whenValid_shouldSave.executor": "Run",
+    "JUnit.DeliveryTest.executor": "Run",
+    "JUnit.DeliveryTest.getDeliveries_whenValid_shouldReturn.executor": "Run",
+    "JUnit.DeliveryTest.getProductsById_whenValid_shouldReturn.executor": "Run",
+    "JUnit.EmployeeTest.getEmployeeById_whenValid_shouldReturn.executor": "Run",
+    "JUnit.GameTest.testCasinoWin.executor": "Run",
+    "JUnit.GameTest.testNotRiskLose.executor": "Run",
+    "JUnit.GameTest.testNotRiskWin (1).executor": "Run",
+    "JUnit.GameTest.testNotRiskWin.executor": "Run",
+    "JUnit.GameTest.testPlayerWin.executor": "Run",
+    "JUnit.GameTest.testRiskLose.executor": "Run",
+    "JUnit.GameTest.testRiskWin.executor": "Run",
+    "JUnit.GetLocationKey.get_shouldReturn200.executor": "Run",
+    "JUnit.GetLocationKey.get_shouldReturn401.executor": "Run",
+    "JUnit.GetLocationTest.executor": "Run",
+    "JUnit.GetLocationTest.getAdministrativeArea (1).executor": "Run",
+    "JUnit.GetLocationTest.getAdministrativeArea.executor": "Run",
+    "JUnit.GetLocationTest.getLocation_autocomplete_returnPetrozavodsk.executor": "Run",
+    "JUnit.GetLocationTest.getLocation_autocomplete_returnSaintPetersburg.executor": "Run",
+    "JUnit.GetLocationTest.getLocation_autocomplete_returnSamara.executor": "Run",
+    "JUnit.GetLocationTest.get_shouldReturn200.executor": "Run",
+    "JUnit.GetLocationTest.get_shouldReturn401.executor": "Run",
+    "JUnit.GetWeather10DaysTest.get_shouldReturn200.executor": "Run",
+    "JUnit.GetWeather10DaysTest.get_shouldReturn401.executor": "Run",
+    "JUnit.GetWeatherFifteenDayTest.executor": "Run",
+    "JUnit.GetWeatherFiveDayTest.executor": "Run",
+    "JUnit.GetWeatherFiveDayTest.gedForecastList.executor": "Run",
+    "JUnit.GetWeatherFiveDayTest.getString.executor": "Run",
+    "JUnit.GetWeatherFiveDayTest.getWeatherFiveDay_shouldReturn.executor": "Run",
+    "JUnit.GetWeatherOneDayTest.executor": "Run",
+    "JUnit.GetWeatherOneDayTest.gedForecastList.executor": "Run",
+    "JUnit.GetWeatherOneDayTest.getString.executor": "Run",
+    "JUnit.GetWeatherOneDayTest.getWeatherFiveDay_shouldReturn.executor": "Run",
+    "JUnit.GetWeatherOneDayTest.getWeatherOneDay_shouldReturn.executor": "Run",
+    "JUnit.GetWeatherTenDayTest.get_ten_day_return_401.executor": "Run",
+    "JUnit.IngredientSubstitutesTest.executor": "Run",
+    "JUnit.OrderTest.getOrders_whenValid_shouldReturn.executor": "Run",
+    "JUnit.ProducerTest.testProducer.executor": "Run",
+    "JUnit.ProductTest.addProduct_whenValid_shouldSave.executor": "Run",
+    "JUnit.ProductTest.deleteProduct_whenValid_shouldDelete.executor": "Run",
+    "JUnit.ProductTest.executor": "Run",
+    "JUnit.ProductTest.getOneProductById.executor": "Run",
+    "JUnit.ProductTest.getProductsById_whenValid_shouldReturn (1).executor": "Run",
+    "JUnit.ProductTest.getProductsById_whenValid_shouldReturn (2).executor": "Run",
+    "JUnit.ProductTest.getProductsById_whenValid_shouldReturn.executor": "Run",
+    "JUnit.ProductTest.getProducts_whenValid_shouldReturn.executor": "Run",
+    "JUnit.java in AutoTestSeminars.executor": "Run",
+    "Maven.AutoTestSeminars [clean].executor": "Run",
+    "Maven.AutoTestSeminars [compile].executor": "Run",
+    "Maven.AutoTestSeminars [org.flywaydb:flyway-maven-plugin:8.5.13:migrate].executor": "Run",
+    "Maven.AutoTestSeminars [package].executor": "Run",
+    "Maven.AutoTestSeminars [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "seminar__3",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Личное/Учеба/Введение в автоматизацию тестирования/AutoTestSeminars/src/main/java/org/max/seminar_5_HW/weather",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Личное\Учеба\Введение в автоматизацию тестирования\AutoTestSeminars\src\main\java\org\max\seminar_5_HW\weather" />
+      <recent name="C:\Личное\Учеба\Введение в автоматизацию тестирования\AutoTestSeminars\src\main\java\org\max\seminar_5_HW" />
+      <recent name="C:\Личное\Учеба\Введение в автоматизацию тестирования\AutoTestSeminars\src\test\java\org\max\seminar_5" />
+      <recent name="C:\Личное\Учеба\Введение в автоматизацию тестирования\AutoTestSeminars\src\main\java\org\max\seminar_5" />
+      <recent name="C:\Личное\Учеба\Введение в автоматизацию тестирования\AutoTestSeminars\src\main\java\org\max\seminar_4_HW" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.max.seminar_5_HW" />
+      <recent name="org.max.seminar_3_HW" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.java in AutoTestSeminars">
+    <configuration name="GetWeatherOneDayTest.getWeatherFiveDay_shouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestSeminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.seminar_3_HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.seminar_3_HW" />
+      <option name="MAIN_CLASS_NAME" value="org.max.seminar_3_HW.GetWeatherOneDayTest" />
+      <option name="METHOD_NAME" value="getWeatherFiveDay_shouldReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetWeatherOneDayTest.getWeatherOneDay_shouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestSeminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.seminar_3_HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.seminar_3_HW" />
+      <option name="MAIN_CLASS_NAME" value="org.max.seminar_3_HW.GetWeatherOneDayTest" />
+      <option name="METHOD_NAME" value="getWeatherOneDay_shouldReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomRecipesTestSpoonacular.getRandomRecipes_whenValid_shouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestSeminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.seminar_3.spoonacular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.seminar_3.spoonacular" />
+      <option name="MAIN_CLASS_NAME" value="org.max.seminar_3.spoonacular.RandomRecipesTestSpoonacular" />
+      <option name="METHOD_NAME" value="getRandomRecipes_whenValid_shouldReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimilarRecipesTestSpoonacular.getSimilarRecipes_whenValid_shouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestSeminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.max.seminar_3.spoonacular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.max.seminar_3.spoonacular" />
+      <option name="MAIN_CLASS_NAME" value="org.max.seminar_3.spoonacular.SimilarRecipesTestSpoonacular" />
+      <option name="METHOD_NAME" value="getSimilarRecipes_whenValid_shouldReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in AutoTestSeminars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoTestSeminars" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in AutoTestSeminars" />
+        <item itemvalue="JUnit.RandomRecipesTestSpoonacular.getRandomRecipes_whenValid_shouldReturn" />
+        <item itemvalue="JUnit.SimilarRecipesTestSpoonacular.getSimilarRecipes_whenValid_shouldReturn" />
+        <item itemvalue="JUnit.GetWeatherOneDayTest.getWeatherOneDay_shouldReturn" />
+        <item itemvalue="JUnit.GetWeatherOneDayTest.getWeatherFiveDay_shouldReturn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed3b0d70-9961-43a1-b317-903dfb81f240" name="Changes" comment="" />
+      <created>1711466147182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711466147182</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add seminar_1_HW">
+      <option name="closed" value="true" />
+      <created>1711482059710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711482059710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add seminar_1_HW&#10;add seminar_2, seminar_2_HW">
+      <option name="closed" value="true" />
+      <created>1711557829265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711557829265</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add seminar_3, seminar_3_HW">
+      <option name="closed" value="true" />
+      <created>1712180070788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712180070788</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add seminar_4, seminar_4_HW">
+      <option name="closed" value="true" />
+      <created>1712604739185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712604739185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add seminar_5, seminar_5_HW">
+      <option name="closed" value="true" />
+      <created>1712692917462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712692917462</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="seminar_4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add seminar_1_HW" />
+    <MESSAGE value="add seminar_1_HW&#10;add seminar_2, seminar_2_HW" />
+    <MESSAGE value="add seminar_3, seminar_3_HW" />
+    <MESSAGE value="add seminar_4, seminar_4_HW" />
+    <MESSAGE value="add seminar_5, seminar_5_HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="add seminar_5, seminar_5_HW" />
+  </component>
+</project>

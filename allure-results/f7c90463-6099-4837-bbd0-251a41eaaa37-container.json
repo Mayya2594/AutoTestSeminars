@@ -1,0 +1,1 @@
+{"uuid":"f7c90463-6099-4837-bbd0-251a41eaaa37","name":"testRiskLose()","children":["e4700fd9-f15a-4814-88ef-a628582ab27f"],"befores":[{"name":"createDoors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1712764294579,"stop":1712764294579}],"afters":[],"start":1712764294578,"stop":1712764294580}
